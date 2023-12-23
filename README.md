@@ -9,20 +9,13 @@ Enjoy a fun and entertaining way to visualize HTTP errors with adorable cat pict
 
 To use this project, follow these steps:
 
-1. **Clone the Repository:**
-   Ensure that Git is installed on your system.
-   ```bash
-   git clone https://github.com/GogaNotClown/http-cats.git
-   cd http-cats
-   ```
-
-2. **Open the HTML File:**
+1. **Open the HTML File:**
    Open the `index.html` file in your preferred web browser.
 
-3. **Enter an Error Code:**
+2. **Enter an Error Code:**
    In the provided input field, enter an HTTP error code (e.g., 404) and click the "Get a cat 😺" button.
 
-4. **Enjoy the Cat Image:**
+3. **Enjoy the Cat Image:**
    The corresponding cat image for the entered error code will be displayed below the button.
 
 ## Technologies Used
