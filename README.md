@@ -46,10 +46,6 @@ $font: 'JetBrains Mono', monospace;
 ```
 
 ## Additional Information
-
-**License:**
-This project is licensed under the MIT License.
-
 **Contact:**
 For questions or suggestions, you can contact me via email- debnathrohit97@gmail.com and Insta and Twitter - @r0dth
 
